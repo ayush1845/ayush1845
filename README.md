@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayush1845
-- 👀 I’m interested in game desgining
-- 🌱 I’m currently learning python,c#,etc.
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on currently nothing
 - 📫 How to reach me my email amkarayush4518@gmail.com
 
